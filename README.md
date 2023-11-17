@@ -4,6 +4,8 @@ Terraform 101
 terraform commands:
 
 terraform output
+
+
 terraform show
 
 To view the generated password:
