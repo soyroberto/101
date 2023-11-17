@@ -142,8 +142,8 @@ resource "azurerm_virtual_machine_scale_set" "vmss" {
   os_profile {
     computer_name_prefix = "catlab"
     admin_username       = var.admin_user
-    admin_password = random_password.vm_password.result
-    custom_data    = file("web4.conf")
+    admin_password       = random_password.vm_password.result
+    custom_data          = file("web4.conf")
   }
 
   os_profile_linux_config {

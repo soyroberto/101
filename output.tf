@@ -17,5 +17,5 @@ output "vm_password" {
 }
 
 output "resource_group_id" {
- value = azurerm_resource_group.vmss.name
+  value = azurerm_resource_group.vmss.name
 }
