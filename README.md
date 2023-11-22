@@ -1,3 +1,9 @@
+
+**Diagram of the resources to be provisioned:**
+
+![plot](./iac.jpg)
+
+
 # Terraform 101
 
 ## Terraform commands:
@@ -10,9 +16,3 @@ _terraform show_ **Show Show output values contained in the output.tf**
 
 _terraform output vm_password_
 
-**Diagram of the resources to be provisioned:**
-
-
-
-
-![plot](./iac.jpg)
