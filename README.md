@@ -2,9 +2,9 @@
 
 ## Terraform commands:
 
-_terraform output_ ***  Shows output values of the created resources ***
+_terraform output_ **Shows output values of the created resources**
 
-_terraform show_ *** Show Show output values contained in the output.tf ***
+_terraform show_ **Show Show output values contained in the output.tf**
 
 **To view the generated password:**
 
