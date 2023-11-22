@@ -1,16 +1,14 @@
-# 101
-Terraform 101
+# Terraform 101
 
-terraform commands:
+## Terraform commands:
 
-terraform output
+_terraform output_
 
+_terraform show_
 
-terraform show
+**To view the generated password:**
 
-To view the generated password:
-
-terraform output vm_password
+_terraform output vm_password_
 
 **Diagram of the resources to be provisioned:**
 
