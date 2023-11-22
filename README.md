@@ -1,10 +1,10 @@
+# Terraform 101
 
 **Diagram of the resources to be provisioned:**
 
 ![plot](./iac.jpg)
 
 
-# Terraform 101
 
 ## Terraform commands:
 
